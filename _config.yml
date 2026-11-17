@@ -1,0 +1,5 @@
+title: Grades of Climbing Converter
+description: Legal documents of the Grades of Climbing Converter app
+theme: jekyll-theme-primer
+exclude:
+  - README.md
